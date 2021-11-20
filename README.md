@@ -17,3 +17,9 @@ Make the Useful Model: Improve model performance (e.g., accuracy) results
 # Data Sources
 Kaggle Dataset CSV
 Data.World Dataset CSV
+
+# Project Overview
+
+
+# Archiecture
+![Uploading image.png…]()
