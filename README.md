@@ -22,4 +22,5 @@ Data.World Dataset CSV
 
 
 # Archiecture
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/61298769/142732671-846a3356-80c5-4644-93e0-271137fec84f.png)
+
