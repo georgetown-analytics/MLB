@@ -5,7 +5,7 @@
 Abraham Arroyo, Amjad Ibrahim, Charles Thompson, Daniel Lee, Roberto Jr Fabian
 
 # Abstract
-There are 162 baseball games played every season in the MLB. For comparison, the NBA has 72 games in a season, while the NFL has 17 games per season. With so many games being played every year, we get a plethora of data that we can utilize to predict if a team would win on any given day. From kaggle data sets that we found, our team wants to focus on the specific attributes in a game and create a model that can accurately predict whether a team will win or not. 
+There are 162 baseball games played every season in the MLB. For comparison, the NBA has 72 games in a season, while the NFL has 17 games per season. With so many games being played every year, we get a plethora of data that we can utilize to predict if a team would win on any given day. From kaggle data sets that we found, our team wants to focus on the specific attributes in a game and create a model that can accurately predict how many wins a team will have in a season. 
 
 # Data Pipeline Methodology
 Acquire Data (Ingestion): Extract data from sources by downloading directly from their website.
